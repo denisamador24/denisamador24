@@ -1,19 +1,17 @@
-<div align='center'>
-  # Hola, soy Denis Amador
+<div align='center'> 
+  <img width='240px' src='https://media.istockphoto.com/id/1220974008/es/foto/dise%C3%B1o-del-sitio-web-desarrollo-de-tecnolog%C3%ADas-de-programaci%C3%B3n-y-codificaci%C3%B3n.jpg?s=612x612&w=0&k=20&c=YVOArP3Dsm8H2L-WgvMZjnwBt2VHmTvOzvTnqSDPFVc='/> 
+</div>
+<h1 align='center'>Hi 👋, I'm Denis Amador</h1>
 
-Soy un Frontend Developer con sólidas bases en HTML, CSS y JavaScript. Me apasiona crear interfaces de usuario atractivas y funcionales, y tengo experiencia en el desarrollo de aplicaciones web utilizando React y Node.js.
+*I am a Frontend Developer with solid foundations in HTML, CSS and JavaScript. I am passionate about creating beautiful and functional user interfaces, and I have experience developing web applications using React and Node.js.*
 
-### Habilidades principales:
+### Main skills:
 
 - HTML
 - CSS
 - JavaScript
 - React
 - Node.js
-
-Además de mi experiencia en desarrollo web, también tengo conocimientos en programación orientada a objetos con Java. Esto me permite tener una perspectiva más amplia y sólida a la hora de abordar proyectos y resolver problemas.
-
-Siempre estoy interesado en aprender nuevas tecnologías y mejorar mis habilidades. Me gusta crear proyectos desafiantes para lograr resultados de alta calidad.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
