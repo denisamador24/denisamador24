@@ -3,7 +3,7 @@
 </div>
 <h1 align='center'>Hi 👋, I'm Denis Amador</h1>
 
-*I am a Frontend Developer with solid foundations in HTML, CSS and JavaScript. I am passionate about creating beautiful and functional user interfaces, and I have experience developing web applications using React and Node.js.*
+*I am a Frontend Developer with solid foundations in HTML, CSS and JavaScript. I am passionate about creating functional user interfaces, and I have experience developing web applications using React and Node.js.*
 
 ### Main skills:
 
