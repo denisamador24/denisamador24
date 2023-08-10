@@ -13,6 +13,14 @@
 - React
 - Node.js
 
+### other skills:
+- Express.js
+- Next.js
+- MongoDB
+- Android development
+- Java
+- Arduino
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
