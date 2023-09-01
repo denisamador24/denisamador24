@@ -11,6 +11,7 @@
 - CSS
 - JavaScript
 - React
+- tailwindcss
 - Node.js
 
 ### other skills:
